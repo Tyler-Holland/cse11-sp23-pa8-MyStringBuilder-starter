@@ -1,7 +1,7 @@
 # CSE 11 Spring 2023 PA8 - MyStringBuilder
 **Due date: Thursday, June 8 @ 11:59PM PST**
 
-There is an **TODO [FAQ]()** post on Piazza. Please read that post first if you have any questions.
+There is an **[FAQ](https://piazza.com/class/lfx8rc63u25xd/post/340)** post on Piazza. Please read that post first if you have any questions.
 
 ## Provided Files
 - CharNode.java
